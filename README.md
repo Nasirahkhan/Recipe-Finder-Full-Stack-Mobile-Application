@@ -1,50 +1,8 @@
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<img width="764" height="1600" alt="welcomeback" src="https://github.com/user-attachments/assets/7f05ea83-6995-4e1c-b279-6e2c257722bc" />
+<img width="591" height="1280" alt="varifyEmail" src="https://github.com/user-attachments/assets/0a091cd0-0562-4ae6-b32a-87094e01c234" />
+<img width="790" height="1280" alt="createAccount" src="https://github.com/user-attachments/assets/0f87176d-1b9b-4ced-8afe-f46d2b65ba51" />
+<img width="1242" height="1152" alt="remove" src="https://github.com/user-attachments/assets/124e3a5d-a6be-467f-b61b-a7a41083cdba" />
+<img width="1242" height="1165" alt="add" src="https://github.com/user-attachments/assets/ada27e9c-9d7c-4d71-8f03-55f5a52dada1" />
+<img width="591" height="1280" alt="favorites" src="https://github.com/user-attachments/assets/df2a50d3-fbdd-4d7e-880b-cc4dbe365bc5" />
+<img width="591" height="1280" alt="search" src="https://github.com/user-attachments/assets/58a236dc-83dd-48fd-a70a-8096a19e0a17" />
+<img width="591" height="1280" alt="main" src="https://github.com/user-attachments/assets/35b16b99-0999-4cb5-a37f-fb50db2970ae" />
